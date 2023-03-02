@@ -1,0 +1,7 @@
+organization=roffeltoffel
+projectKey=roffeltoffel_sonartesting
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.37873
+dashboardUrl=https://sonarcloud.io/dashboard?id=roffeltoffel_sonartesting
+ceTaskId=AYZfv0oY4LsSKiCt9Ia4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYZfv0oY4LsSKiCt9Ia4

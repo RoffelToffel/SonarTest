@@ -1,0 +1,12 @@
+com.acme.basic.CWE190#main([Ljava/lang/String;)V
+java.net.URL#openConnection()Ljava/net/URLConnection;
+java.net.URL#<init>(Ljava/lang/String;)V
+java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V
+java.io.BufferedReader#instance-init#
+java.io.BufferedReader#<init>(Ljava/io/Reader;)V
+java.lang.StringBuffer#<init>()V
+java.lang.StringBuffer#toString()Ljava/lang/String;
+java.lang.StringBuffer#instance-init#
+java.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;
+java.io.InputStreamReader#instance-init#
+java.net.URL#instance-init#
